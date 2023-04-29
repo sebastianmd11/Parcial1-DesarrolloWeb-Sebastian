@@ -14,3 +14,7 @@ td {
   border-bottom: 1px solid #ddd;
   padding: 8px;
 }
+
+.id{
+  font-weight: bold;
+}
